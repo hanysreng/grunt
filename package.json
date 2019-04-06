@@ -1,0 +1,21 @@
+{
+  "name": "gruntproject",
+  "version": "1.0.0",
+  "description": "This is grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello",
+    "grunt"
+  ],
+  "author": "hany",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.4"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1"
+  }
+}
